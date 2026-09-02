@@ -1,4 +1,4 @@
-# CS2_Gumamela
+
 # Distance Between Two Points Calculator
 
 ## Description
